@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sushmaJyoti2022/sushmaJyoti2022/blob/main/Githhub%20banner.png)
 <h1 align="center">Hola 👋, I'm Sushma Kumari</h1>
 <h3 align="center">A designer trying to design his way into programming....</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
