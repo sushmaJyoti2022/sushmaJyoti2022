@@ -1,6 +1,5 @@
-<h2 align="center">A designer trying to design his way into programming....</h2>
 <h1 align="center">Hola 👋, I'm Sushma Kumari</h1>
-<h3 align="center">Programmer| Developer| Learner| Artist| Graphic Designer</h3>
+<h3 align="center">A designer trying to design his way into programming....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmajyoti2022&label=Profile%20views&color=0e75b6&style=flat" alt="sushmajyoti2022" /> </p>
 
