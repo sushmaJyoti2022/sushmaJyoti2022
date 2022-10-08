@@ -1,3 +1,4 @@
+<h2 align="center">A designer trying to design his way into programming....</h2>
 <h1 align="center">Hola 👋, I'm Sushma Kumari</h1>
 <h3 align="center">Programmer| Developer| Learner| Artist| Graphic Designer</h3>
 
