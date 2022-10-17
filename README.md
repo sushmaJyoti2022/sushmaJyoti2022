@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, I'm Sushma Kumari</h1>
 <h3 align="center">A designer trying to design his way into programming....</h3>
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
-<img align="right" alt="Coding" width="200" src=https://www.google.com/pinterest.com%2Fpin%2F567523990538356835%2F&psig.gif">
+<img align="right" alt="Coding" width="200" src=https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmajyoti2022&label=Profile%20views&color=0e75b6&style=flat" alt="sushmajyoti2022" /> </p>
 
