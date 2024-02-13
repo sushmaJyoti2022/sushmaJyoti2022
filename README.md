@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/divyash95168975" target="blank"><img src="https://img.shields.io/twitter/follow/divyash95168975?logo=twitter&style=for-the-badge" alt="divyash95168975" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++, DSA and R language**
+- 🌱 I’m currently learning **C++ and DSA**
 
-- 💬 Ask me about **C, C++ and R language**
+- 💬 Ask me about **R, SQL, Java, C, HTML, PHP, C++,CSS and JavaScript**
 
-- 📫 How to reach me **sushma.divya7479@gmail.com**
+- 📫 How to reach me **sushma.gup1412@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
